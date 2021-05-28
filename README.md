@@ -5,14 +5,12 @@ _Hey developers, we're glad to have you here! Before you start contributing to t
 These repositories are made by MUJ ACM S-Chap are to help developers like you get started with Open Source.
 
 ## In This Repository
-In this repository we have made a server for our nodemcu. 
-you can clone the repo from here []().
-To start with we have made a simple api route which you can find in the /app/routes folder.
-If you want to connect the server with you mongoDB then just change the URI in the index.js
+In this repository we have made a server for our NodeMCU. 
+You can clone the repository from here [IoT using NodeMCU](https://github.com/mujacm/iot_using_nodemcu) .
+To start with we have made a simple API route which you can find in the /app/routes folder. If you want to connect the server with your MongoDB then just change the URI in the index.js
 
-You can add more features by adding various route to support the features of nodemcu project.
-You can also assume a feature in the modemcu project and make a backend route for it. 
-For example: Currently there is no option to connect a ultrasonic sensor with nodemcu but in future some one might add it in the nodemcu repo so you can assume a make a route to get the data from ultrasonic senor.
+You can add more features by adding various route to support the features of NodeMCU project. You can also assume a feature in the NodeMCU project and make a back-end route for it. For example: Currently there is no option to connect a ultrasonic sensor with NodeMCU but in future some one might add it in the NodeMCU repository so you can assume and make a route to get the data from ultrasonic senor.
+
 
 Please follow the steps written in `CONTRIBUTORS.md` to make a route, model or controller.
 
